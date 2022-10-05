@@ -20,8 +20,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "WebRTC",
-            url: "https://github.com/ben-spoonradio/webrtc-sdk/releases/download/v0.05/WebRTC.xcframework.zip",
-            checksum: "822b76b712507f0722347bb384dd3128a8c3ac3874b8267cab1bbd3ec8aa0793"
+            url: "https://github.com/ben-spoonradio/webrtc-sdk/releases/download/v0.06/WebRTC.xcframework.zip",
+            checksum: "5d4af81b5dd96b3c973674ad424185f63325baa4d2ccdbc1d53ef09759f47c38"
         ),
 
 
